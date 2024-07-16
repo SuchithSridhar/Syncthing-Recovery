@@ -11,6 +11,9 @@ This is specifically written for the case where you know all the files in the
 original directory and you only want to recovered the last good version from the
 `.stversions` directory.
 
+Right now the `main.py` doesn't work yet. Please just run `recovery.py` AFTER
+changing the global variable at the top of the script.
+
 ## TO DO
 
 Since this way mainly written as a simple program I could use to restore my
